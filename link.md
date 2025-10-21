@@ -1,0 +1,17 @@
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/README.md
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/another/kuda.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/info_lokasi/coords.txt
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/qr_rusak/qr1.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/qr_rusak/qr2.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/qr_vault/chall.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/scrambled/scrambled.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/time_capsule/time_capsule_repo.bundle
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/VideoQR/video.mp4
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/color/foto.jpg
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/danau/foto.jpg
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/gambarAI/KucingRobot.jpeg
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/ibadah/foto.jpg
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/rumah_sakit/foto.jpg
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/sepuh_genshin_turun_gunung/foto.jpg
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/steel_the_flag/video.mp4
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/Tok_Kah/image.jpg
