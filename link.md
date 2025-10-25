@@ -6,6 +6,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/qr_vault/chall.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/scrambled/scrambled.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/time_capsule/time_capsule_repo.bundle
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/unzip_ini/zxcasdqwe.zip
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/VideoQR/video.mp4
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/color/foto.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/danau/foto.jpg
@@ -55,7 +56,6 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_foren
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Secret_Agents_Briefing/public_key.asc
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/snow/note.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/snow/snow.jpg
-https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/unzip_ini/zxcasdqwe.zip
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/05_web/Leak_Bee/data.db
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/activation/activator.exe
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/Leaky_Login/leaky_login
