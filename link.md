@@ -41,6 +41,8 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_foren
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Double-Blind_Communication/image_b.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Double-Blind_Communication/privA.asc
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Double-Blind_Communication/privB.asc
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Email_Berhadiah/Documents.zip
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Email_Berhadiah/mail.eml
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Excel_Leak/Internal_Audit_2025.xlsx
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/exif_strings/ada_udang_dibalik_batu.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/fake_chat_group/msgstore.db
