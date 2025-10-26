@@ -17,6 +17,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/gambarAI/KucingRobot.jpeg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/ibadah/foto.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/jejak_kolonial/jejak_kolonial.jpg
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/Pertigaan_Gunbarrel/Pertigaan_Gunbarrel.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/rumah_sakit/foto.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/sepuh_genshin_turun_gunung/foto.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/steel_the_flag/video.mp4
