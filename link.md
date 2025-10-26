@@ -1,6 +1,10 @@
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/README.md
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/another/kuda.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/history/secret.zip
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/info_lokasi/coords.txt
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Locked_Desk_Drawer/desk.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Locked_Desk_Drawer/drawer.enc
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Locked_Desk_Drawer/note.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/qr_rusak/qr1.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/qr_rusak/qr2.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/qr_vault/chall.png
@@ -40,13 +44,9 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_foren
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/fake_chat_group/msgstore.db
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/gambar_rusak/corrupted.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/glitch_archive/secret.mp4
-https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/history/secret.zip
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Indonesia/indonesia.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/invasi/invasi.wav
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/layer_tersembunyi/cat.png
-https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Locked_Desk_Drawer/desk.png
-https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Locked_Desk_Drawer/drawer.enc
-https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Locked_Desk_Drawer/note.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/mainCTF-USB/file.pcapng
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/mainCTF-USB/secret.7z
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/mancing/mancing.png
