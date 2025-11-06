@@ -1,5 +1,6 @@
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/README.md
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/another/kuda.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/brain_dead/brain_dead.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/history/secret.zip
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/info_lokasi/coords.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Locked_Desk_Drawer/desk.png
@@ -12,6 +13,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/time_capsule/time_capsule_repo.bundle
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/unzip_ini/zxcasdqwe.zip
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/VideoQR/video.mp4
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/window/window.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/color/foto.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/danau/foto.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/gambarAI/KucingRobot.jpeg
@@ -22,7 +24,6 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/sepuh_genshin_turun_gunung/foto.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/steel_the_flag/video.mp4
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/Tok_Kah/image.jpg
-https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/brain_dead/brain_dead.bf
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/clasic/clasic1.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/clasic/clasic2.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/flip_flop/chall.py
@@ -36,7 +37,6 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/The_Captains_Last_Message/radio_silence_1943.wav
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Whispers_of_the_Cipher/cipher.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Whispers_of_the_Cipher/mysterious.wav
-https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/window/window.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/agent_rahasia/pesan.pdf
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Astaga_!!!/Mistakez.pcap
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/beep_morse/beep.wav
