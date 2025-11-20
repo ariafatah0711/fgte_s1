@@ -1,6 +1,11 @@
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/README.md
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/another/kuda.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/beep_morse/beep.wav
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/brain_dead/brain_dead.txt
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Double-Blind_Communication/image_a.jpg
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Double-Blind_Communication/image_b.jpg
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Double-Blind_Communication/privA.asc
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Double-Blind_Communication/privB.asc
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/history/secret.zip
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/info_lokasi/coords.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Locked_Desk_Drawer/desk.png
@@ -10,6 +15,10 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/qr_rusak/qr2.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/qr_vault/chall.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/scrambled/scrambled.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Secret_Agents_Briefing/memo.txt
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Secret_Agents_Briefing/message.asc
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Secret_Agents_Briefing/private_key.asc
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Secret_Agents_Briefing/public_key.asc
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/time_capsule/time_capsule_repo.bundle
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/unzip_ini/zxcasdqwe.zip
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/VideoQR/video.mp4
@@ -24,6 +33,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/sepuh_genshin_turun_gunung/foto.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/steel_the_flag/video.mp4
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/Tok_Kah/image.jpg
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Bahasa_Asing/ASING.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/clasic/clasic1.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/clasic/clasic2.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/flip_flop/chall.py
@@ -39,11 +49,6 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Whispers_of_the_Cipher/mysterious.wav
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/agent_rahasia/pesan.pdf
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Astaga_!!!/Mistakez.pcap
-https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/beep_morse/beep.wav
-https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Double-Blind_Communication/image_a.jpg
-https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Double-Blind_Communication/image_b.jpg
-https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Double-Blind_Communication/privA.asc
-https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Double-Blind_Communication/privB.asc
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Email_Berhadiah/Documents.zip
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Email_Berhadiah/mail.eml
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Excel_Leak/Internal_Audit_2025.xlsx
@@ -61,10 +66,6 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_foren
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/mainCTF-USB/secret.7z
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/mancing/mancing.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/My_Kisah_inimah/akugagalmendapatflag.jpg
-https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Secret_Agents_Briefing/memo.txt
-https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Secret_Agents_Briefing/message.asc
-https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Secret_Agents_Briefing/private_key.asc
-https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Secret_Agents_Briefing/public_key.asc
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/snow/note.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/snow/snow.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/05_web/Leak_Bee/data.db
