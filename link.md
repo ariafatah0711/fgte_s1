@@ -7,6 +7,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Double-Blind_Communication/privA.asc
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Double-Blind_Communication/privB.asc
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/history/secret.zip
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/IkanMati/IkanMati.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/info_lokasi/coords.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Locked_Desk_Drawer/desk.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Locked_Desk_Drawer/drawer.enc
