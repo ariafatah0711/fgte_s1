@@ -49,6 +49,10 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/kunci_sungai_nil/clue.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/kunci_sungai_nil/inskripsi_tersembunyi.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/labirin_hex/labirin_hex.txt
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/RSA_Trilogy/part1_ciphertext.enc
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/RSA_Trilogy/part1_pubkey.pem
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/RSA_Trilogy/part2.txt
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/RSA_Trilogy/part3.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/The_Captains_Last_Message/radio_silence_1943.wav
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Whispers_of_the_Cipher/cipher.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Whispers_of_the_Cipher/mysterious.wav
