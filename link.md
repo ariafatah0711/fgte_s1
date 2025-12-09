@@ -70,6 +70,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_foren
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/My_Kisah_inimah/akugagalmendapatflag.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/snow/note.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/snow/snow.jpg
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/TheHiddenMemberJKT48/Last_seen.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/05_web/Leak_Bee/data.db
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/activation/activator.exe
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/Leaky_Login/leaky_login
