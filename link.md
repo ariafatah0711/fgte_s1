@@ -74,6 +74,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_foren
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/mainCTF-USB/file.pcapng
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/mainCTF-USB/secret.7z
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/mancing/mancing.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Midnight_Echos/Midnight_Echo.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/My_Kisah_inimah/akugagalmendapatflag.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/snow/note.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/snow/snow.jpg
