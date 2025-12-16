@@ -37,6 +37,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/steel_the_flag/video.mp4
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/Tok_Kah/image.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Bahasa_Asing/ASING.txt
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Between_the_Margins/referensi.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/clasic/clasic1.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/clasic/clasic2.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/flip_flop/chall.py
