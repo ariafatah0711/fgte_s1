@@ -6,6 +6,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Double-Blind_Communication/image_b.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Double-Blind_Communication/privA.asc
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Double-Blind_Communication/privB.asc
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Expenditure_Data/expense.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/extensions/extension.zip
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/hex_a_hue/hex_a_hue.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/history/secret.zip
@@ -43,7 +44,6 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Between_the_Margins/referensi.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/clasic/clasic1.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/clasic/clasic2.txt
-https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Expenditure_Data/expense.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/flip_flop/chall.py
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/flip_flop/cipher.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/jp_8000/JP_8000.txt
