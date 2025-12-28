@@ -89,6 +89,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_foren
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/05_web/Leak_Bee/data.db
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/activation/activator.exe
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/Checksumd/checksumd
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/Checksumd/data.bin
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/Dompet_Crypto_2011/bitsecure_wallet.apk
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/Leaky_Login/leaky_login
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/question/quiz_1
