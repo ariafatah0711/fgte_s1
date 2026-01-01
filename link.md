@@ -45,6 +45,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Between_the_Margins/referensi.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/clasic/clasic1.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/clasic/clasic2.txt
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Divergence_1.048596/1.048596.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/flip_flop/chall.py
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/flip_flop/cipher.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/jp_8000/JP_8000.txt
