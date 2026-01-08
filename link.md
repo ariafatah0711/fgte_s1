@@ -100,3 +100,4 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_rever
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/question/quiz_2
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/Silent_Checksum/silent_checksum_linux
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/verif/verif
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/07_pwn/baby-stack/chall.c
