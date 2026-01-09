@@ -70,7 +70,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_foren
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Astaga_!!!/Mistakez.pcap
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Email_Berhadiah/Documents.zip
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Email_Berhadiah/mail.eml
-https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Encrypted_But_Exposed/10-01-26.pcapng
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Encrypted_But_Exposed/100126.pcapng
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Encrypted_But_Exposed/sslkeylog.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Excel_Leak/Internal_Audit_2025.xlsx
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/exif_strings/ada_udang_dibalik_batu.png
