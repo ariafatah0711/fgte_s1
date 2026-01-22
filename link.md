@@ -104,7 +104,9 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_rever
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/verif/verif
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/07_pwn/baby-stack/chall.c
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/it_sign.jpg
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/no-see-code.zip
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/osint_shipwreck.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/significant.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/traditional-cake.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/TrainMania.mp4
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/warm_up_Archive_Another_Platform_FGTE.png
