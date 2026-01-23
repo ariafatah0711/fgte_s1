@@ -106,6 +106,9 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/07_pwn/b
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/it_sign.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/no-see-code.zip
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/osint_shipwreck.jpg
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/pikepienji.pcapng
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/redaction_fail.pdf
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/scap.pcapng
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/significant.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/traditional-cake.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/TrainMania.mp4
