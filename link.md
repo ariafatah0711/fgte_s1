@@ -103,7 +103,12 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_rever
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/Silent_Checksum/silent_checksum_linux
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/verif/verif
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/07_pwn/baby-stack/chall.c
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/infected.shredded
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/it_sign.jpg
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/kuntil.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/Lampu_Jalan.jpg
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/Makan_ketoprak_di_pantai.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/Malwarebytes_Scan_Report_2025-08-15_060358.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/no-see-code.zip
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/osint_shipwreck.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/pikepienji.pcapng
