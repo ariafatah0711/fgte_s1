@@ -15,6 +15,8 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Locked_Desk_Drawer/desk.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Locked_Desk_Drawer/drawer.enc
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Locked_Desk_Drawer/note.txt
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Maze_of_Squares/Maze_of_Squares.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/MyIstri/MyIstri.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/qr_rusak/qr1.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/qr_rusak/qr2.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/qr_vault/chall.png
