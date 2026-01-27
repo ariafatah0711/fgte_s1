@@ -2,12 +2,16 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/README.m
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/another/kuda.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/beep_morse/beep.wav
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/brain_dead/brain_dead.txt
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/diff/diff_1.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/diff/diff_2.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Double-Blind_Communication/image_a.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Double-Blind_Communication/image_b.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Double-Blind_Communication/privA.asc
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Double-Blind_Communication/privB.asc
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Expenditure_Data/expense.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/extensions/extension.zip
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/find_the_flag/find_the_flag.dump
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Hello_World/hello_world.pyc
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/hex_a_hue/hex_a_hue.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/history/secret.zip
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/IkanMati/IkanMati.png
@@ -35,6 +39,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/gambarAI/KucingRobot.jpeg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/G_____S___/zxcvbn.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/ibadah/foto.jpg
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/Janji_Makan_Siang/Janji_Makan_Siang.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/jejak_kolonial/jejak_kolonial.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/learn_osint/osint_1.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/learn_osint/osint_2.webp
@@ -105,6 +110,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_rever
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/Silent_Checksum/silent_checksum_linux
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/verif/verif
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/07_pwn/baby-stack/chall.c
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/Blitz_Traffic.zip
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/infected.shredded
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/it_sign.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/kuntil.png
