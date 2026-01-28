@@ -2,6 +2,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/README.m
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/another/kuda.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/beep_morse/beep.wav
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/brain_dead/brain_dead.txt
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Christmas_GIFt/Your_Gift.gif
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/diff/diff_1.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/diff/diff_2.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/Double-Blind_Communication/image_a.jpg
@@ -61,6 +62,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Jump_13/jump_13.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Kampret_RaSA/challenge.json
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Kampret_RaSA/encrypt.py
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Kepencet_Emote/1769608139649.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Koper_Mas_Smith/chall.py
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Koper_Mas_Smith/output.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/kunci_sungai_nil/clue.png
@@ -70,6 +72,9 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/RSA_Trilogy/part1_pubkey.pem
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/RSA_Trilogy/part2.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/RSA_Trilogy/part3.txt
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Shane_i_hate_u/encrypt.py
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Shane_i_hate_u/output.txt
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/The_Broken_DCM/broken.dcm
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/The_Captains_Last_Message/radio_silence_1943.wav
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Whispers_of_the_Cipher/cipher.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Whispers_of_the_Cipher/mysterious.wav
