@@ -131,6 +131,10 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/traditional-cake.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/TrainMania.mp4
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/warm_up_Archive_Another_Platform_FGTE.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/02_ip_address.pka
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/02_ip_address.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/1_default_route.pka
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/1_default_route.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/img/FGTE_2025.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/img/FGTE_Archive_Another_Platform.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/img/FGTE_Networking.png
