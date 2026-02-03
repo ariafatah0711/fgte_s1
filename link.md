@@ -86,6 +86,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/agent_rahasia/pesan.pdf
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Astaga_!!!/Mistakez.pcap
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Crop_Screnshoot/Crop_Screenshot.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Crop_Screnshoot/Crop_Screenshot_2.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Email_Berhadiah/Documents.zip
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Email_Berhadiah/mail.eml
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/Encrypted_But_Exposed/100126.pcapng
@@ -122,6 +123,8 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_rever
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/verif/verif
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/07_pwn/baby-stack/chall.c
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/Blitz_Traffic.zip
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/Cat_Arnold.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/cat_encode.py
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/infected.shredded
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/it_sign.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/kuntil.png
@@ -134,6 +137,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/redaction_fail.pdf
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/scap.pcapng
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/significant.jpg
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/sunset.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/traditional-cake.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/TrainMania.mp4
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/warm_up_Archive_Another_Platform_FGTE.png
