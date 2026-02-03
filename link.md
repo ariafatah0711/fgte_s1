@@ -48,6 +48,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/learn_osint/osint_2.webp
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/MrRobot_GeoHex/MrRobot.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/Pertigaan_Gunbarrel/Pertigaan_Gunbarrel.jpg
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/Planet_lain/PlanetLain.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/rumah_sakit/foto.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/sepuh_genshin_turun_gunung/foto.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/steel_the_flag/video.mp4
@@ -141,6 +142,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/traditional-cake.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/TrainMania.mp4
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/warm_up_Archive_Another_Platform_FGTE.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/Plane/Plane.jpeg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/02_ip_address.pka
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/02_ip_address.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/1_default_route.pka
