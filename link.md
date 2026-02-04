@@ -114,9 +114,12 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_foren
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/04_forensics/wifi_office/office.pcap
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/05_web/Leak_Bee/data.db
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/activation/activator.exe
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/bayi_ahh_gedebe/debug0_a
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/Checksumd/checksumd
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/Checksumd/data.bin
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/Dompet_Crypto_2011/bitsecure_wallet.apk
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/Eat_Eat_Eat/eat.py
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/HTA_Mencurigakan/shell.hta
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/Leaky_Login/leaky_login
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/question/quiz_1
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/06_reverse/question/quiz_2
@@ -126,10 +129,13 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/07_pwn/b
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/Blitz_Traffic.zip
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/Cat_Arnold.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/cat_encode.py
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/complexity.apk
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/infected.shredded
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/it_sign.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/kuntil.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/Lampu_Jalan.jpg
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/linear
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/loooong
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/Makan_ketoprak_di_pantai.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/Malwarebytes_Scan_Report_2025-08-15_060358.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/no-see-code.zip
