@@ -73,6 +73,8 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/kunci_sungai_nil/clue.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/kunci_sungai_nil/inskripsi_tersembunyi.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/labirin_hex/labirin_hex.txt
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Return_of_the_Key/ciphertext.bin
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Return_of_the_Key/public.pem
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/RSA_Trilogy/part1_ciphertext.enc
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/RSA_Trilogy/part1_pubkey.pem
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/RSA_Trilogy/part2.txt
@@ -151,6 +153,8 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/Plane/Plane.jpeg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/02_ip_address.pka
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/02_ip_address.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/03_static_route.pka
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/03_static_route.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/1_default_route.pka
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/1_default_route.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/img/FGTE_2025.png
