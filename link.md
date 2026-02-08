@@ -155,6 +155,8 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_netwo
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/02_ip_address.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/03_static_route.pka
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/03_static_route.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/04_first_topology.pka
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/04_first_topology.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/1_default_route.pka
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/1_default_route.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/img/FGTE_2025.png
