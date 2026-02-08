@@ -155,6 +155,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/2/flag.png.enc
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/2/gerbang_logika.py
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/2/quadratic.py
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/2/quadratic.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/2/rox_star.py
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/2/threat.py
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/02_ip_address.pka
