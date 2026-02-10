@@ -36,6 +36,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/unzip_ini/zxcasdqwe.zip
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/VideoQR/video.mp4
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/01_misc/window/window.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/A_Familiar_Staircase/Your_Name.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/color/foto.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/danau/foto.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/gambarAI/KucingRobot.jpeg
@@ -46,6 +47,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/jejak_kolonial/jejak_kolonial.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/learn_osint/osint_1.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/learn_osint/osint_2.webp
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/Load_Region_of_Déjà_Vu/Deja_Vu.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/MrRobot_GeoHex/MrRobot.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/Pertigaan_Gunbarrel/Pertigaan_Gunbarrel.jpg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/02_osint/Planet_lain/PlanetLain.jpg
@@ -154,6 +156,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/2/collisions.py
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/2/flag.png.enc
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/2/gerbang_logika.py
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/2/gerbang_logika.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/2/quadratic.py
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/2/quadratic.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/2/rox_star.py
