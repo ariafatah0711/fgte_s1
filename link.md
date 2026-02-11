@@ -172,5 +172,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_netwo
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/1_default_route.pka
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/1_default_route.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/img/FGTE_2025.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/img/FGTE_2026.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/img/FGTE_2027.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/img/FGTE_Archive_Another_Platform.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/img/FGTE_Networking.png
