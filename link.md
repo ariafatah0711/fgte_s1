@@ -75,6 +75,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/kunci_sungai_nil/clue.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/kunci_sungai_nil/inskripsi_tersembunyi.txt
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/labirin_hex/labirin_hex.txt
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/music_note/note.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Return_of_the_Key/ciphertext.bin
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/Return_of_the_Key/public.pem
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/03_crypto/RSA_Trilogy/part1_ciphertext.enc
@@ -154,6 +155,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/warm_up_Archive_Another_Platform_FGTE.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/1/Plane/Plane.jpeg
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/2/collisions.py
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/2/dots.wav
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/2/flag.png.enc
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/2/gerbang_logika.py
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/2/gerbang_logika.txt
