@@ -179,4 +179,8 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/img/FGTE
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/img/FGTE_2026.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/img/FGTE_2027.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/img/FGTE_Archive_Another_Platform.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/img/FGTE_Blank.png
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/img/FGTE_Networking.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/img/icon_fgte0.1.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/img/icon_fgte0.png
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/img/Poster_FGTE0.png
