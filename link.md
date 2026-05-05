@@ -166,6 +166,7 @@ https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/2/threat.py
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/3/Log_Incident/access.log
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/3/Log_Incident/error.log
+https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/3/Phis_Eml/Phis_Eml.zip
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/08_event/3/React_Incident/React_Incident.pcap
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/02_ip_address.pka
 https://raw.githubusercontent.com/ariafatah0711/fgte_s1/refs/heads/main/09_networking/02_ip_address.png
